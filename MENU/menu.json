@@ -1,0 +1,116 @@
+{
+	"menu":[ 
+	{
+	"nombre":"hamburguesa",
+	"descripcion":"es una hamburguesa simple",
+	"precio":100,
+	"imagen":"img/hamburguesa2.jpg"
+
+},
+	{
+	"nombre":"Coctel",
+	"descripcion":"Es un coctel de camarones,con aguacate",
+	"precio":100,
+	"imagen":"img/coctel10.jpg"
+
+},
+	{
+	"nombre":"Brochetas",
+	"descripcion":"pollo,camaron",
+	"precio":100,
+	"imagen":"img/brochetas3.jpg"
+
+},
+	{
+	"nombre":"Ceviche",
+	"descripcion":"de camaron a la mexica o otro tipo de  ,con tostadas",
+	"precio":100,
+	"imagen":"img/ceviche.jpg"
+
+},
+	{
+	"nombre":"Camaron empanizado",
+	"descripcion":"",
+	"precio":100,
+	"imagen":"img/camaron5.jpg"
+
+},
+{
+	"nombre":"Sushi",
+	"descripcion":" empanizado,arroz,ensalada<",
+	"precio":100,
+	"imagen":"img/sushi9.jpg"
+
+},
+{
+	"nombre":"Quesadillas de camaron",
+	"descripcion":"quesadilla de camaron frito acompañado de una ensalada",
+	"precio":100,
+	"imagen":"img/Quesadilla4.jpg"
+
+},
+{
+	"nombre":"Pescado frito",
+	"descripcion":"lechuga,arroz,aguacate",
+	"precio":100,
+	"imagen":"img/pescado12.jpg"
+
+},
+{
+	"nombre":"Camaron con aguachile",
+	"descripcion":"",
+	"precio":100,
+	"imagen":"img/camaron5.jpg"
+
+},
+{
+	"nombre":"Ensalada de pasta con salmon",
+	"descripcion":"con una capa de lechuga y el salmon a la plancha",
+	"precio":100,
+	"imagen":"img/salmon.jpg"
+
+},
+{
+	"nombre":"Molcajete de mariscos",
+	"descripcion":"es como un coctel de camarones pero en un molcajete",
+	"precio":100,
+	"imagen":"img/molcajete.jpg"
+
+},
+{
+	"nombre":"Crema de mariscos",
+	"descripcion":"",
+	"precio":100,
+	"imagen":"img/crema.jpg"
+
+},
+{
+	"nombre":"Paella de mariscos",
+	"descripcion":"",
+	"precio":100,
+	"imagen":"img/paella.jpg"
+
+},
+{
+	"nombre":"sopa  de mariscos",
+	"descripcion":"",
+	"precio":100,
+	"imagen":"img/sopa.jpg"
+
+},
+{
+	"nombre":"langosta",
+	"descripcion":"es como un coctel de camarones pero en un molcajete",
+	"precio":100,
+	"imagen":"img/lang.jpg"
+
+},
+{
+	"nombre":"pescadillas",
+	"descripcion":"es como una empanada pero hecha de  camaron o pescado",
+	"precio":100,
+	"imagen":"img/pescadilla.jpg"
+
+}
+]
+}
